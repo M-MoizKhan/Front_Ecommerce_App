@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Front_Ecommerce_App/static/css/main.74462bc5.chunk.css",
+    "main.js": "/Front_Ecommerce_App/static/js/main.bd7c400d.chunk.js",
+    "main.js.map": "/Front_Ecommerce_App/static/js/main.bd7c400d.chunk.js.map",
+    "runtime-main.js": "/Front_Ecommerce_App/static/js/runtime-main.c24b7b7b.js",
+    "runtime-main.js.map": "/Front_Ecommerce_App/static/js/runtime-main.c24b7b7b.js.map",
+    "static/js/2.4c6847e2.chunk.js": "/Front_Ecommerce_App/static/js/2.4c6847e2.chunk.js",
+    "static/js/2.4c6847e2.chunk.js.map": "/Front_Ecommerce_App/static/js/2.4c6847e2.chunk.js.map",
+    "index.html": "/Front_Ecommerce_App/index.html",
+    "precache-manifest.9f5ef8e6cb9153333eb69f31f128f125.js": "/Front_Ecommerce_App/precache-manifest.9f5ef8e6cb9153333eb69f31f128f125.js",
+    "service-worker.js": "/Front_Ecommerce_App/service-worker.js",
+    "static/css/main.74462bc5.chunk.css.map": "/Front_Ecommerce_App/static/css/main.74462bc5.chunk.css.map",
+    "static/js/2.4c6847e2.chunk.js.LICENSE.txt": "/Front_Ecommerce_App/static/js/2.4c6847e2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Front_Ecommerce_App/static/media/banner.99bfcf36.jpg",
+    "static/media/s1.jpg": "/Front_Ecommerce_App/static/media/s1.5550049a.jpg",
+    "static/media/s4.jpg": "/Front_Ecommerce_App/static/media/s4.825c69ba.jpg",
+    "static/media/s5.jpg": "/Front_Ecommerce_App/static/media/s5.5550049a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c24b7b7b.js",
+    "static/js/2.4c6847e2.chunk.js",
+    "static/css/main.74462bc5.chunk.css",
+    "static/js/main.bd7c400d.chunk.js"
+  ]
+}
